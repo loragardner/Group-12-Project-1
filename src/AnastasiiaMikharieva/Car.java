@@ -6,6 +6,6 @@ public class Car {
         System.out.println("hello");
     }
     static {
-        System.out.println("One more static block");
+        System.out.println("One more static block");//
     }
 }
